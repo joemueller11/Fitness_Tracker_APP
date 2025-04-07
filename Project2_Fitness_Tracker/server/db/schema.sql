@@ -1,0 +1,5 @@
+-- DROP DATABASE
+DROP DATABASE IF EXISTS fitnesstracker_db;
+
+-- CREATE DATABASE
+CREATE DATABASE fitnesstracker_db;
